@@ -9,7 +9,7 @@
 <p>
 - composer install
 - php artisan key:generate
-- php artisan stirage:link
+- php artisan storage:link
 </p>
 
 ## About Laravel
